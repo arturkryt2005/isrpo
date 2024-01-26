@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("issrpo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6a070b4e9a547200604dba6d22e1d8d94c754df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+496414df2f97a80cbc15f6d912cbe9bab1075262")]
 [assembly: System.Reflection.AssemblyProductAttribute("issrpo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("issrpo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
